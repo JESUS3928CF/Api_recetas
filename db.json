@@ -71,12 +71,6 @@
             "nombre": "Café Capuchino",
             "precio": 40,
             "categoria": 2
-        },
-        {
-            "id": 13,
-            "nombre": "Nuevo documento",
-            "precio": 4000,
-            "categoria": 5
         }
     ]
 }
